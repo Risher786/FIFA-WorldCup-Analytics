@@ -59,16 +59,6 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 - Performance Analysis by Height and Weight: Scatter plots analyzing player performance by height and weight.
 - Performance Analysis by Preferred Foot: A scatter plot assessing player performance based on their preferred foot.
 
-
-
-## Video Presentation Link
-[Youtube-Link](https://youtu.be/8mieMpBjuEM)
-
-
-## Project PPT Link
-[PPT-Link](https://drive.google.com/file/d/1vjk3LBHjvVVtug7MvZP723Qi9SIC5I48/view?usp=sharing)
-
-
 ---
 
 For any questions or feedback, please feel free to open an issue or contact the project maintainer.
